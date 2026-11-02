@@ -1,0 +1,25 @@
+{
+  "green": "#243F34",
+  "gold": "#CCA064",
+  "background": "#FFFFFF",
+  "series": "CVAIL Talk Series",
+  "title": "Overfitting with",
+  "duration": 15.5,
+  "fit_start": 3.6,
+  "fit_duration": 3.3,
+  "graph_fade_start": 9.6,
+  "graph_fade_duration": 1.8,
+  "background_start": 9.8,
+  "background_duration": 2.2,
+  "title_start": 10.75,
+  "title_duration": 1.25,
+  "greek_start": 11.75,
+  "greek_interval": 0.38,
+  "greek_letters": [
+    "α",
+    "β",
+    "γ",
+    "δ",
+    "Σ"
+  ]
+}

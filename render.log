@@ -1,0 +1,8 @@
+/home/cristiancrr/CVAIL-animation/animate.py:225: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world.use_nodes = True
+/home/cristiancrr/CVAIL-animation/animate.py:45: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  m.use_nodes = True
+Info: Packed 2 file(s)
+Info: Saved as "CVAIL-overfitting.blend"
+CVAIL_BUILT {"size": [1280, 720], "frames": 432, "train_mse": 2.9760465155013866e-11, "validation_mse": 0.505184362178589}
+CVAIL_MP4 /home/cristiancrr/CVAIL-animation/renders/CVAIL-overfitting.mp4

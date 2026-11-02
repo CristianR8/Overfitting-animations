@@ -1,0 +1,366 @@
+Info: Packed 2 file(s)
+Info: Saved as "CVAIL-intro-3D.blend"
+INTRO_BUILT 1920 1080 216
+00:03.077  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00001.png'
+INTRO_FRAME 1 216 2.1
+00:04.825  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00002.png'
+INTRO_FRAME 2 216 3.8
+00:06.516  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00003.png'
+INTRO_FRAME 3 216 5.5
+00:08.115  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00004.png'
+INTRO_FRAME 4 216 7.1
+00:09.753  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00005.png'
+INTRO_FRAME 5 216 8.7
+00:11.408  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00006.png'
+INTRO_FRAME 6 216 10.4
+00:13.173  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00007.png'
+INTRO_FRAME 7 216 12.2
+00:15.136  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00008.png'
+INTRO_FRAME 8 216 14.1
+00:16.819  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00009.png'
+INTRO_FRAME 9 216 15.8
+00:18.670  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00010.png'
+INTRO_FRAME 10 216 17.7
+00:20.396  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00011.png'
+INTRO_FRAME 11 216 19.4
+00:22.338  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00012.png'
+INTRO_FRAME 12 216 21.3
+00:24.011  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00013.png'
+INTRO_FRAME 13 216 23.0
+00:25.929  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00014.png'
+INTRO_FRAME 14 216 24.9
+00:27.964  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00015.png'
+INTRO_FRAME 15 216 26.9
+00:29.580  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00016.png'
+INTRO_FRAME 16 216 28.6
+00:31.234  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00017.png'
+INTRO_FRAME 17 216 30.2
+00:32.937  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00018.png'
+INTRO_FRAME 18 216 31.9
+00:34.663  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00019.png'
+INTRO_FRAME 19 216 33.7
+00:36.401  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00020.png'
+INTRO_FRAME 20 216 35.4
+00:38.213  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00021.png'
+INTRO_FRAME 21 216 37.2
+00:39.820  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00022.png'
+INTRO_FRAME 22 216 38.8
+00:41.685  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00023.png'
+INTRO_FRAME 23 216 40.7
+00:43.315  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00024.png'
+INTRO_FRAME 24 216 42.3
+00:45.148  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00025.png'
+INTRO_FRAME 25 216 44.1
+00:46.802  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00026.png'
+INTRO_FRAME 26 216 45.8
+00:48.492  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00027.png'
+INTRO_FRAME 27 216 47.5
+00:50.173  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00028.png'
+INTRO_FRAME 28 216 49.2
+00:51.850  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00029.png'
+INTRO_FRAME 29 216 50.8
+00:53.656  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00030.png'
+INTRO_FRAME 30 216 52.6
+00:55.459  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00031.png'
+INTRO_FRAME 31 216 54.4
+00:57.385  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00032.png'
+INTRO_FRAME 32 216 56.4
+00:59.133  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00033.png'
+INTRO_FRAME 33 216 58.1
+01:00.953  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00034.png'
+INTRO_FRAME 34 216 59.9
+01:02.724  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00035.png'
+INTRO_FRAME 35 216 61.7
+01:04.472  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00036.png'
+INTRO_FRAME 36 216 63.5
+01:06.242  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00037.png'
+INTRO_FRAME 37 216 65.2
+01:07.965  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00038.png'
+INTRO_FRAME 38 216 67.0
+01:09.731  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00039.png'
+INTRO_FRAME 39 216 68.7
+01:11.415  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00040.png'
+INTRO_FRAME 40 216 70.4
+01:13.218  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00041.png'
+INTRO_FRAME 41 216 72.2
+01:14.931  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00042.png'
+INTRO_FRAME 42 216 73.9
+01:16.704  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00043.png'
+INTRO_FRAME 43 216 75.7
+01:18.398  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00044.png'
+INTRO_FRAME 44 216 77.4
+01:20.171  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00045.png'
+INTRO_FRAME 45 216 79.2
+01:22.060  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00046.png'
+INTRO_FRAME 46 216 81.0
+01:23.971  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00047.png'
+INTRO_FRAME 47 216 83.0
+01:25.654  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00048.png'
+INTRO_FRAME 48 216 84.6
+01:27.632  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00049.png'
+INTRO_FRAME 49 216 86.6
+01:29.357  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00050.png'
+INTRO_FRAME 50 216 88.3
+01:31.274  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00051.png'
+INTRO_FRAME 51 216 90.3
+01:33.105  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00052.png'
+INTRO_FRAME 52 216 92.1
+01:34.955  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00053.png'
+INTRO_FRAME 53 216 93.9
+01:36.962  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00054.png'
+INTRO_FRAME 54 216 96.0
+01:38.893  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00055.png'
+INTRO_FRAME 55 216 97.9
+01:40.783  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00056.png'
+INTRO_FRAME 56 216 99.8
+01:42.739  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00057.png'
+INTRO_FRAME 57 216 101.7
+01:44.547  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00058.png'
+INTRO_FRAME 58 216 103.5
+01:46.388  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00059.png'
+INTRO_FRAME 59 216 105.4
+01:48.249  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00060.png'
+INTRO_FRAME 60 216 107.2
+01:50.052  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00061.png'
+INTRO_FRAME 61 216 109.0
+01:51.870  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00062.png'
+INTRO_FRAME 62 216 110.9
+01:53.913  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00063.png'
+INTRO_FRAME 63 216 112.9
+01:55.718  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00064.png'
+INTRO_FRAME 64 216 114.7
+01:57.739  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00065.png'
+INTRO_FRAME 65 216 116.7
+01:59.639  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00066.png'
+INTRO_FRAME 66 216 118.6
+02:01.589  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00067.png'
+INTRO_FRAME 67 216 120.6
+02:03.481  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00068.png'
+INTRO_FRAME 68 216 122.5
+02:05.535  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00069.png'
+INTRO_FRAME 69 216 124.5
+02:07.331  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00070.png'
+INTRO_FRAME 70 216 126.3
+02:09.385  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00071.png'
+INTRO_FRAME 71 216 128.4
+02:11.175  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00072.png'
+INTRO_FRAME 72 216 130.2
+02:13.039  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00073.png'
+INTRO_FRAME 73 216 132.0
+02:14.836  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00074.png'
+INTRO_FRAME 74 216 133.8
+02:16.780  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00075.png'
+INTRO_FRAME 75 216 135.8
+02:18.856  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00076.png'
+INTRO_FRAME 76 216 137.8
+02:20.918  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00077.png'
+INTRO_FRAME 77 216 139.9
+02:22.675  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00078.png'
+INTRO_FRAME 78 216 141.7
+02:24.470  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00079.png'
+INTRO_FRAME 79 216 143.5
+02:26.427  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00080.png'
+INTRO_FRAME 80 216 145.4
+02:28.290  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00081.png'
+INTRO_FRAME 81 216 147.3
+02:30.150  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00082.png'
+INTRO_FRAME 82 216 149.1
+02:31.961  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00083.png'
+INTRO_FRAME 83 216 150.9
+02:33.695  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00084.png'
+INTRO_FRAME 84 216 152.7
+02:35.503  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00085.png'
+INTRO_FRAME 85 216 154.5
+02:37.165  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00086.png'
+INTRO_FRAME 86 216 156.1
+02:38.938  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00087.png'
+INTRO_FRAME 87 216 157.9
+02:40.709  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00088.png'
+INTRO_FRAME 88 216 159.7
+02:42.726  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00089.png'
+INTRO_FRAME 89 216 161.7
+02:44.778  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00090.png'
+INTRO_FRAME 90 216 163.8
+02:46.616  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00091.png'
+INTRO_FRAME 91 216 165.6
+02:48.573  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00092.png'
+INTRO_FRAME 92 216 167.6
+02:50.410  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00093.png'
+INTRO_FRAME 93 216 169.4
+02:52.164  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00094.png'
+INTRO_FRAME 94 216 171.2
+02:54.087  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00095.png'
+INTRO_FRAME 95 216 173.1
+02:55.987  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00096.png'
+INTRO_FRAME 96 216 175.0
+02:57.753  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00097.png'
+INTRO_FRAME 97 216 176.7
+02:59.593  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00098.png'
+INTRO_FRAME 98 216 178.6
+03:01.428  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00099.png'
+INTRO_FRAME 99 216 180.4
+03:03.201  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00100.png'
+INTRO_FRAME 100 216 182.2
+03:05.088  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00101.png'
+INTRO_FRAME 101 216 184.1
+03:06.779  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00102.png'
+INTRO_FRAME 102 216 185.8
+03:08.611  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00103.png'
+INTRO_FRAME 103 216 187.6
+03:10.509  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00104.png'
+INTRO_FRAME 104 216 189.5
+03:12.447  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00105.png'
+INTRO_FRAME 105 216 191.4
+03:14.245  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00106.png'
+INTRO_FRAME 106 216 193.2
+03:16.199  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00107.png'
+INTRO_FRAME 107 216 195.2
+03:18.037  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00108.png'
+INTRO_FRAME 108 216 197.0
+03:19.952  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00109.png'
+INTRO_FRAME 109 216 198.9
+03:21.818  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00110.png'
+INTRO_FRAME 110 216 200.8
+03:23.777  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00111.png'
+INTRO_FRAME 111 216 202.8
+03:25.693  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00112.png'
+INTRO_FRAME 112 216 204.7
+03:27.673  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00113.png'
+INTRO_FRAME 113 216 206.7
+03:29.503  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00114.png'
+INTRO_FRAME 114 216 208.5
+03:31.698  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00115.png'
+INTRO_FRAME 115 216 210.7
+03:33.484  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00116.png'
+INTRO_FRAME 116 216 212.5
+03:35.517  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00117.png'
+INTRO_FRAME 117 216 214.5
+03:37.478  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00118.png'
+INTRO_FRAME 118 216 216.5
+03:39.466  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00119.png'
+INTRO_FRAME 119 216 218.5
+03:41.453  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00120.png'
+INTRO_FRAME 120 216 220.4
+03:43.364  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00121.png'
+INTRO_FRAME 121 216 222.4
+03:45.234  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00122.png'
+INTRO_FRAME 122 216 224.2
+03:47.138  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00123.png'
+INTRO_FRAME 123 216 226.1
+03:49.045  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00124.png'
+INTRO_FRAME 124 216 228.0
+03:50.824  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00125.png'
+INTRO_FRAME 125 216 229.8
+03:52.810  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00126.png'
+INTRO_FRAME 126 216 231.8
+03:54.788  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00127.png'
+INTRO_FRAME 127 216 233.8
+03:56.648  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00128.png'
+INTRO_FRAME 128 216 235.6
+03:58.620  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00129.png'
+INTRO_FRAME 129 216 237.6
+04:00.901  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00130.png'
+INTRO_FRAME 130 216 239.9
+04:02.939  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00131.png'
+INTRO_FRAME 131 216 241.9
+04:05.008  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00132.png'
+INTRO_FRAME 132 216 244.0
+04:07.432  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00133.png'
+INTRO_FRAME 133 216 246.4
+04:09.392  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00134.png'
+INTRO_FRAME 134 216 248.4
+04:11.299  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00135.png'
+INTRO_FRAME 135 216 250.3
+04:13.291  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00136.png'
+INTRO_FRAME 136 216 252.3
+04:15.116  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00137.png'
+INTRO_FRAME 137 216 254.1
+04:16.948  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00138.png'
+INTRO_FRAME 138 216 255.9
+04:18.944  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00139.png'
+INTRO_FRAME 139 216 257.9
+04:20.788  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00140.png'
+INTRO_FRAME 140 216 259.8
+04:22.718  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00141.png'
+INTRO_FRAME 141 216 261.7
+04:24.604  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00142.png'
+INTRO_FRAME 142 216 263.6
+04:26.335  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00143.png'
+INTRO_FRAME 143 216 265.3
+04:28.118  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00144.png'
+INTRO_FRAME 144 216 267.1
+04:30.176  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00145.png'
+INTRO_FRAME 145 216 269.2
+04:32.519  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00146.png'
+INTRO_FRAME 146 216 271.5
+04:34.403  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00147.png'
+INTRO_FRAME 147 216 273.4
+04:36.355  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00148.png'
+INTRO_FRAME 148 216 275.3
+04:38.151  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00149.png'
+INTRO_FRAME 149 216 277.1
+04:40.145  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00150.png'
+INTRO_FRAME 150 216 279.1
+04:42.019  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00151.png'
+INTRO_FRAME 151 216 281.0
+04:44.111  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00152.png'
+INTRO_FRAME 152 216 283.1
+04:46.082  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00153.png'
+INTRO_FRAME 153 216 285.1
+04:47.945  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00154.png'
+INTRO_FRAME 154 216 286.9
+04:49.664  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00155.png'
+INTRO_FRAME 155 216 288.6
+04:51.435  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00156.png'
+INTRO_FRAME 156 216 290.4
+04:53.213  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00157.png'
+INTRO_FRAME 157 216 292.2
+04:54.995  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00158.png'
+INTRO_FRAME 158 216 294.0
+04:56.640  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00159.png'
+INTRO_FRAME 159 216 295.6
+04:58.461  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00160.png'
+INTRO_FRAME 160 216 297.4
+05:00.105  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00161.png'
+INTRO_FRAME 161 216 299.1
+05:02.023  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00162.png'
+INTRO_FRAME 162 216 301.0
+05:03.691  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00163.png'
+INTRO_FRAME 163 216 302.7
+05:05.488  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00164.png'
+INTRO_FRAME 164 216 304.5
+05:07.263  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00165.png'
+INTRO_FRAME 165 216 306.2
+05:08.917  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00166.png'
+INTRO_FRAME 166 216 307.9
+05:10.675  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00167.png'
+INTRO_FRAME 167 216 309.7
+05:12.417  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00168.png'
+INTRO_FRAME 168 216 311.4
+05:14.240  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00169.png'
+INTRO_FRAME 169 216 313.2
+05:15.978  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00170.png'
+INTRO_FRAME 170 216 315.0
+05:17.793  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00171.png'
+INTRO_FRAME 171 216 316.8
+05:19.412  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00172.png'
+INTRO_FRAME 172 216 318.4
+05:21.104  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00173.png'
+INTRO_FRAME 173 216 320.1
+05:22.722  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00174.png'
+INTRO_FRAME 174 216 321.7
+05:24.501  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00175.png'
+INTRO_FRAME 175 216 323.5
+05:26.159  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00176.png'
+INTRO_FRAME 176 216 325.1
+05:27.941  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00177.png'
+INTRO_FRAME 177 216 326.9
+05:29.563  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00178.png'
+INTRO_FRAME 178 216 328.5
+05:31.323  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00179.png'
+INTRO_FRAME 179 216 330.3
+05:32.922  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00180.png'
+INTRO_FRAME 180 216 331.9
+05:34.663  render           | Saved: '/home/cristiancrr/CVAIL-animation/renders/intro-v2/frames/00181.png'
+INTRO_FRAME 181 216 333.6
+INTRO_MP4 /home/cristiancrr/CVAIL-animation/renders/intro-v2/CVAIL-intro-3D.mp4

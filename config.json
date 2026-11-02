@@ -1,0 +1,21 @@
+{
+  "series": "CVAIL TALK SERIES",
+  "title": "Overfitting with",
+  "guest": "",
+  "tagline": "A perfect fit is not the whole story.",
+  "chapters": [
+    ["01 / THE PATTERN", "Learning the pattern", "A simple model captures the overall trend."],
+    ["02 / THE NOISE", "Fitting every point", "Training error falls. The surface starts fitting noise."],
+    ["03 / THE REVEAL", "Unseen data. Same model.", "New observations expose the generalization gap."]
+  ],
+  "training_label": "TRAINING DATA",
+  "validation_label": "UNSEEN DATA",
+  "train_error_label": "TRAIN MSE",
+  "validation_error_label": "VALIDATION MSE",
+  "seed": 12,
+  "seconds": 18,
+  "fps": 24,
+  "green": "243F34",
+  "gold": "CCA064",
+  "ivory": "F6F4ED"
+}

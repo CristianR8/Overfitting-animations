@@ -1,0 +1,62 @@
+{
+  "green": "#243F34",
+  "gold": "#CCA064",
+  "background": "#FFFFFF",
+  "series": "CVAIL Talk Series",
+  "title": "Overfitting with",
+  "guest": "",
+  "flight_seconds": 6.4,
+  "split_seconds": 2.0,
+  "duration": 15.0,
+  "wave_amplitude": 1.1,
+  "depth_amplitude": 1.7,
+  "wave_cycles": 1.2,
+  "wave_speed": 0.23,
+  "dash_flow_speed": 0.025,
+  "front_hold": 0.65,
+  "opening_seconds": 1.2,
+  "greek_start": 10.0,
+  "greek_interval": 0.5,
+  "greek_letters": [
+    "α",
+    "β",
+    "γ",
+    "δ",
+    "ε",
+    "ζ",
+    "η",
+    "θ",
+    "Σ"
+  ],
+  "orbit_start": 1.5,
+  "orbit_seconds": 4.9,
+  "signal_start": 0.105,
+  "draw_keyframes": [
+    [
+      0,
+      0.105,
+      0
+    ],
+    [
+      1.5,
+      0.6,
+      0.05
+    ],
+    [
+      6.4,
+      0.72,
+      0.04
+    ],
+    [
+      8.4,
+      0.87,
+      0.12
+    ],
+    [
+      9.4,
+      1.1,
+      0
+    ]
+  ],
+  "arrow_hide_start": 9.05
+}
