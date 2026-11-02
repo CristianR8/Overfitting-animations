@@ -1,0 +1,10 @@
+{
+  "seed": 12,
+  "n_train": 30,
+  "n_validation": 18,
+  "smooth_train_mse": 0.10699422930158219,
+  "smooth_validation_mse": 0.1675582604457052,
+  "overfit_train_mse": 2.9760465155013866e-11,
+  "overfit_validation_mse": 0.505184362178589,
+  "note": "Synthetic regression; validation data never used to fit or modify the surface."
+}
